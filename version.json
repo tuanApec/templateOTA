@@ -1,12 +1,12 @@
 {
   "android": {
-    "version": "2.2.3",
-    "minAppVersion": "2.2.3",
+    "version": "2.0.0",
+    "updateOTAVersion": "2.0.0",
     "bundlePath": "output/index.android.bundle"
   },
   "ios": {
-    "version": "2.2.3",
-    "minAppVersion": "2.2.3",
+    "version": "2.0.0",
+    "updateOTAVersion": "2.0.0",
     "bundlePath": "output/main.jsbundle"
   }
 }
