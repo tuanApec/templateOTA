@@ -1,12 +1,12 @@
 {
   "android": {
-    "version": "1.9.1",
-    "minAppVersion": "2.0.0",
+    "version": "2.2.3",
+    "minAppVersion": "2.2.3",
     "bundlePath": "output/index.android.bundle"
   },
   "ios": {
-    "version": "1.9.1",
-    "minAppVersion": "2.0.0",
+    "version": "2.2.3",
+    "minAppVersion": "2.2.3",
     "bundlePath": "output/main.jsbundle"
   }
 }
